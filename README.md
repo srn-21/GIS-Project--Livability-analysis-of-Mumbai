@@ -1,7 +1,7 @@
 # GIS-Project--Livability-analysis-of-Mumbai
 Livability analysis of Mumbai using QGIS and Python (Jupyter Notebook) separately.
 
-Objective: To identify the most suitable areas to live based on accessibility to transport and essential amenities.
+#Objective: To identify the most suitable areas to live based on accessibility to transport and essential amenities.
 Transport (Metro, Local railway, bus), Amenities (Hospitals & parks)
 
 Tools & Data Sources used
@@ -16,7 +16,7 @@ Tools & Data Sources used
 
 Methodology 
 - Boundary Creation
-- Grid Creation (1km*1km)
+- Grid Creation
 - Data Extraction (layers)
 - Distance calculation
 - Feature Engineering
